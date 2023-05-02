@@ -1,0 +1,87 @@
+HTML Tag Reference.
+https://www.w3schools.com/tags/default.asp
+
+Favicon creation
+https://www.favicon.cc.
+
+FONT AWESOME 5 TUTORIALS
+https://fontawesome.com/
+https://www.w3schools.com/icons/fontawesome5_intro.asp
+https://kit.fontawesome.com/a076d05399.js
+
+Icon Reference
+https://www.w3schools.com/icons/icons_reference.asp
+Bootstrap Icon
+"https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
+
+Google Icon
+"https://fonts.googleapis.com/icon"
+
+Icon Tutorial.
+https://www.w3schools.com/icons/default.asp
+
+GOOGLE FONTS
+https://fonts.googleapis.com/icon
+
+N/B In CSS a:link and a:visited must come before a:hover and a:active can come after that for it to be active.
+
+N/B better to use % for width than px or you can specify a max-width.
+Also use em unit for fonts-size in CSS. Read more about base, canvas, svg, favicon, 
+Compare scheme://prefix.domain:port/path/filename to https://www.w3schools.com/charsets/default.asp
+scheme-https,
+prefix-www,
+domain-w3school.com,
+so on,
+
+
+The cursor Property
+Mouse over the words to change the cursor.
+auto
+crosshair
+default
+e-resize
+help
+move
+n-resize
+ne-resize
+nw-resize
+pointer
+progress
+s-resize
+se-resize
+sw-resize
+text
+w-resize
+wait
+
+
+
+HTML Entities i.e &It,&gt are entity names for < and > respectively
+
+Also Diacritical Mark for `a is a&768
+
+
+Complete HTML Character Set Reference.
+https://www.w3schools.com/charsets/default.asp
+
+IP-Internet Protocol
+URL-Uniform Resource Locator
+
+
+
+XML Tutorial.
+https://www.w3schools.com/xml/default.asp
+
+display: flex
+align-items: center
+justify-content: center
+
+github
+https://github.com/TesMars
+tesfayemarshall@outlook.com
+pass..  @wade2313
+
+
+jsfiddle
+https://jsfiddle.net/
+@tes2301
